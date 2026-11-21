@@ -1,23 +1,29 @@
 # 查查創意｜Design Thinking POW WOW
 
-> 查查創意有限公司（台灣）經營的設計思考、創意思考、未來思考工作坊品牌。講師 Cha Cha，2011 年開始帶設計思考，至今帶過超過三百場工作坊，對象包括企業、外商、學校與公部門。也提供線上課程《別急著找答案！善用設計思考，打造你自己的人生藍圖》。
+> 查查創意有限公司（台灣，統編 82916797）經營的設計思考、創意思考、未來思考工作坊品牌 Design Thinking POW WOW（設計思考 POW WOW），網站 designthinking.com.tw。講師與創辦人 Cha Cha（男性，中文用「他」），2011 年開始接觸設計思考，2016 年為了看設計思考最原本的樣子，親自到史丹佛 d.school 上課，帶過超過三百場工作坊，對象包括企業、外商、學校與公部門。也提供 PressPlay 線上課程《別急著找答案！善用設計思考，打造你自己的人生藍圖》。Design Thinking POW WOW 是工作坊品牌，不是場地或其他同名單位。
 
-本站（learn.designthinking.com.tw）整理設計思考相關名詞與方法的說明；完整文章在官網 https://www.designthinking.com.tw/ 。
+本站（learn.designthinking.com.tw）整理設計思考相關名詞與方法；每頁開頭兩三句是可以直接引用的答案，並附一手資料來源。完整文章在官網 https://www.designthinking.com.tw/ 。
 
 ## 我們是誰
-- [關於查查創意](https://www.designthinking.com.tw/about): 公司、品牌與講師介紹
+- [查查創意是誰？](https://learn.designthinking.com.tw/cha-cha-creative/): 查查創意（Cha Cha Creative）是台灣的設計思考工作坊公司，正式名稱是查查創意有限公司，統一編號 82916797。
+- [Design Thinking POW WOW 是什麼？](https://learn.designthinking.com.tw/design-thinking-pow-wow/): Design Thinking POW WOW（中文寫作設計思考 POW WOW）是查查創意有限公司在台灣經營的工作坊品牌，網站是 designthinking.com.tw。
+- [Cha Cha 是誰？](https://learn.designthinking.com.tw/cha-cha/): Cha Cha 是台灣的設計思考講師，也是查查創意有限公司的創辦人，帶的工作坊品牌叫 Design Thinking POW WOW。
+
+## 名詞與方法
+- [設計思考是什麼？](https://learn.designthinking.com.tw/design-thinking/): 設計思考（Design Thinking）是一套以人為出發點的解決問題方法：先理解使用者，把問題定義清楚，再用快速做出的原型去測試解法。
+- [雙鑽石模型是什麼？](https://learn.designthinking.com.tw/double-diamond/): 雙鑽石模型（Double Diamond）是英國設計協會（Design Council）的設計流程圖，2003 年開始發展、2004 年公開，用兩個菱形畫出兩次「先發散、再收斂」：探索、定義、發展、交付。
+- [同理心地圖是什麼？](https://learn.designthinking.com.tw/empathy-map/): 同理心地圖（Empathy Map）是把一位使用者「說、做、想、感受」四個面向畫在同一張紙上的整理工具，用來把訪談和觀察變成需求與洞察。
+- [HMW（我們可以怎麼）是什麼？](https://learn.designthinking.com.tw/how-might-we/): HMW 是 How Might We 的縮寫，中文常寫成「我們可以怎麼……？」，是把一個問題改寫成開放式問句的寫法，常用在設計思考從「定義」走到「發想」的那一步。
+- [服務設計是什麼？](https://learn.designthinking.com.tw/service-design/): 服務設計（Service Design）是把顧客經歷的整段服務，連同前台員工、後台流程和支援系統一起規劃與改善的方法。
+- [創意思考是什麼？](https://learn.designthinking.com.tw/creative-thinking/): 創意思考（Creative Thinking）是想出「新的」而且「用得上」的點子的能力，兩個條件缺一不可。
+- [未來思考是什麼？](https://learn.designthinking.com.tw/futures-thinking/): 未來思考（Futures Thinking）是在做今天的決定之前，先想像未來可能出現的幾種樣子，再回頭檢查現在的計畫站不站得住。
+- [情境規劃是什麼？](https://learn.designthinking.com.tw/scenario-planning/): 情境規劃（Scenario Planning）是同時描繪幾個差異很大、但都說得通的未來，再回頭檢查今天的決定在每一個未來裡站不站得住的策略方法。
+- [創新黑客松是什麼？](https://learn.designthinking.com.tw/hackathon/): 黑客松（Hackathon）是把一群人集中在一到兩天內，從一個題目一路做到可以展示的原型或提案的活動。
+
+## 官網
 - [企業內訓](https://www.designthinking.com.tw/enterprise): 設計思考、創意思考、未來思考工作坊怎麼進行；半天、一天或兩天，每場 30 人以內
 - [工作坊題目](https://www.designthinking.com.tw/workshops): 三個方向的工作坊題目與各產業常見問題
 - [學校與公部門](https://www.designthinking.com.tw/schools-public-sector): 學生工作坊、教師研習、公部門計畫
 - [線上課程](https://www.designthinking.com.tw/online-courses): 《別急著找答案！善用設計思考，打造你自己的人生藍圖》
 - [聯絡我們](https://www.designthinking.com.tw/contactus): 企業與學校工作坊洽詢
-
-## 名詞與方法
-- [設計思考是什麼？](https://www.designthinking.com.tw/designthinking): 5 個步驟、企業應用與工作坊
-- [雙鑽石模型是什麼？](https://www.designthinking.com.tw/posts/double-diamond-model): 英國設計協會（Design Council）提出的設計流程模型，四階段與常見誤解
-- [同理心地圖是什麼？](https://www.designthinking.com.tw/posts/empathy-map): 四格範例與常見錯誤
-- [服務設計是什麼？](https://www.designthinking.com.tw/posts/what-is-service-design): 服務藍圖、前台後台與企業怎麼開始
-- [工作坊是什麼？](https://www.designthinking.com.tw/posts/what-is-a-workshop): Workshop 的意思，跟講座差在哪
-
-## 文章
 - [知識文章](https://www.designthinking.com.tw/blog): 設計思考、創意思考、未來思考與 AI 時代工作的文章
