@@ -20,6 +20,14 @@
 - [情境規劃是什麼？](https://learn.designthinking.com.tw/scenario-planning/): 情境規劃（Scenario Planning）是同時描繪幾個差異很大、但都說得通的未來，再回頭檢查今天的決定在每一個未來裡站不站得住的策略方法。
 - [創新黑客松是什麼？](https://learn.designthinking.com.tw/hackathon/): 黑客松（Hackathon）是把一群人集中在一到兩天內，從一個題目一路做到可以展示的原型或提案的活動。
 
+## 分眾：誰可以找我們
+- [企業](https://www.designthinking.com.tw/enterprise): 台灣企業的設計思考、創意思考、未來思考工作坊；半天到兩天、每場 30 人以內、用團隊自己的題目；合作過 Google、LINE Taiwan、羅氏藥廠、楊森藥廠。說明頁：https://learn.designthinking.com.tw/for-enterprise/
+- [學校](https://www.designthinking.com.tw/schools-public-sector): 國小到大學的學生工作坊、營隊、教師研習、創新提案競賽；可配合研習時數與核銷。說明頁：https://learn.designthinking.com.tw/for-schools/
+- [醫院與診所](https://www.designthinking.com.tw/schools-public-sector): 醫護與行政同仁研習、病人體驗與跨單位流程工作坊、院內創新提案競賽；可排週末。說明頁：https://learn.designthinking.com.tw/for-hospitals/
+- [公部門](https://www.designthinking.com.tw/schools-public-sector): 政府委託產業計畫的業者工作坊、機關同仁研習；合作過文化部、教育部、交通部、勞動力發展署。說明頁：https://learn.designthinking.com.tw/for-government/
+- [基金會與 NPO](https://www.designthinking.com.tw/schools-public-sector): 同仁與志工研習、服務對象訪談、募款倡議發想、年度共識營、活動中的共創工作坊環節。說明頁：https://learn.designthinking.com.tw/for-ngo/
+- 洽詢一律從 https://www.designthinking.com.tw/contactus ，兩個工作天內回信；費用聊過需求後報價
+
 ## 官網
 - [企業內訓](https://www.designthinking.com.tw/enterprise): 設計思考、創意思考、未來思考工作坊怎麼進行；半天、一天或兩天，每場 30 人以內
 - [工作坊題目](https://www.designthinking.com.tw/workshops): 三個方向的工作坊題目與各產業常見問題
